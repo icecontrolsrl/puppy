@@ -13,7 +13,3 @@ func Barks() string {
 func Func1() {
 	fmt.Println("version 1")
 }
-
-func Func2() {
-	fmt.Println("version 2")
-}
